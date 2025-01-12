@@ -26,9 +26,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/itsaditya7)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/adityaraaj7) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23107840.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/itsadit07)  
 </br>
 
-</br>
-</br>
-
        
 
 # ⚙️ Tech Stack:  

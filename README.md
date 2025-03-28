@@ -12,7 +12,8 @@
 
 ###  Learning 📑
 - ✨ Data Structures & Algorithms
-- ✨ Machine Learning 
+- ✨ Deep Learning
+- ✨ Natural Language Processing
 - ✨ GenAI
 </br></br>
 

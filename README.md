@@ -13,7 +13,9 @@
 
 ### Connect with Me 🌐  
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aditya-raaj)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-lin) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aditya-raaj)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-lin) 
+[![Website](https://img.shields.io/badge/Website-%2300BFAE.svg?logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://aditya-raaj.github.io/Portfolio/))
 
 
 

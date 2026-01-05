@@ -1,25 +1,36 @@
+# Hi, I'm Aditya Raj
 
-<h1 align="center"> Hi , I'm Aditya Raj 👋 </h1>
+<p align="center">
+  <img src="https://github.com/aditya-raaj/aditya-raaj/blob/main/ml.jpg" width="420"/>
+</p>
 
-# 💫 About Me:
-<img hight="100" width="500"  alt="GIF" align="right" src="https://github.com/aditya-raaj/aditya-raaj/blob/main/gif3.gif">
+### Aspiring AI Engineer | Machine Learning | Deep Learning | NLP | Generative AI
 
-###  Learning 📑
-- ✨ Data Structures & Algorithms
-- ✨ Deep Learning
-- ✨ Natural Language Processing
-- ✨ GenAI
-</br></br>
-
-### Connect with Me 🌐  
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aditya-raaj)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-lin) 
-[![Website](https://img.shields.io/badge/Website-%2300BFAE.svg?logo=google-chrome&logoColor=white)](https://aditya-raaj.github.io/Portfolio/)
-
-
-### Coding Profiles 🚀  
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/itsaditya7)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/adityaraaj7) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23107840.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/itsadit07)  
-</br>
+I am a Computer Science student focused on building intelligent systems and solving real-world problems using Machine Learning, Deep Learning, and Generative AI. I actively practice competitive programming and continuously strengthen my problem-solving skills.
 
 ---
+
+## Currently Learning
+- Data Structures and Algorithms  
+- Deep Learning  
+- Natural Language Processing  
+- Generative AI
+
+---
+
+## Connect With Me
+<p>
+<a href="https://github.com/aditya-raaj"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aditya-lin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://aditya-raaj.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00BFAE?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+## Competitive Programming Profiles
+<p>
+<a href="https://leetcode.com/itsaditya7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://kaggle.com/adityaraaj7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/itsadit07"><img src="https://img.shields.io/badge/GeeksforGeeks-107840?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/connoisseur7"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
